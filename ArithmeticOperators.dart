@@ -14,7 +14,7 @@ void main() {
   print("Multiplication: ${res}");
 
   resDouble = num1/num2;
-  print("Division: ${res}");
+  print("Division: ${resDouble}");
 
   res = num1~/num2;
   print("Division returning Integer: ${res}");
